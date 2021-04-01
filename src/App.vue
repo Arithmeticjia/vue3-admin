@@ -5,7 +5,7 @@
         <div class="head">
           <div>
             <img src="https://s.weituibao.com/1582958061265/mlogo.png" alt="logo">
-            <span>vue3 admin</span>
+            <span>后台管理</span>
           </div>
         </div>
         <div class="line" />

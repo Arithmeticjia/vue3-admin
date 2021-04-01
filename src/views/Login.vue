@@ -4,7 +4,7 @@
       <div class="head">
         <img class="logo" src="https://s.weituibao.com/1582958061265/mlogo.png" />
         <div class="name">
-          <div class="title">新蜂商城</div>
+          <div class="title">嘉Mall</div>
           <div class="tips">Vue3.0 后台管理系统</div>
         </div>
       </div>
